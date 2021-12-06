@@ -4,8 +4,7 @@
 
 An immersive remote-working platform - Winner of [2021 Monte Jade Innovation Competition](http://www.montejadese.org/pages/mjic.html)
 
-- Come try it out - [Official Website](https://skyoffice.netlify.app/)
-- Why we built this - [Concept Video](https://www.youtube.com/watch?v=BpDqGTPh8pc)
+- Come try it out - [Official Website](https://skaioffice.netlify.app/)
 
 SkyOffice works on all PC browsers (mobile browsers are currently not supported)
 
